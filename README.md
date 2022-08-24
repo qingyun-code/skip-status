@@ -1,2 +1,2 @@
-# skip_status
-检测箕斗是否在卸煤
+# 箕斗卸煤状态检测
+[具体说明](https://huangqingyun.top/2021/05/11/箕斗卸煤检测/)
